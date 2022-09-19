@@ -1,0 +1,11 @@
+# training from scratch using a single gpu, default configs in config.py file
+datadir: /mnt/cloudNAS4/Rahul/Projects/Data/PF-dataset-PASCAL # replace with your data dir
+#exp_name: train_ncnet_normalized_out # normalized the mnn output from ncnet to 0-1 in the network forward definition
+exp_name: training_a5000_longer
+#lr: 1e-5
+#num_epochs: 5
+logdir: /mnt/cloudNAS4/Rahul/Projects/Models/MyNCnet/logs/ 
+outdir: /mnt/cloudNAS4/Rahul/Projects/Models/MyNCnet/out/
+
+
+

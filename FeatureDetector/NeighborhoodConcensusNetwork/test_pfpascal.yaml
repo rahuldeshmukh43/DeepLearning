@@ -1,0 +1,4 @@
+# training from scratch using a single gpu, default configs in config.py file
+exp_name: test_ncnet
+datadir: /mnt/cloudNAS2/rahul/eclipse/eclipse-workspace/myNCNnet/data/PF-dataset-PASCAL # replace with your data dir
+phase: test

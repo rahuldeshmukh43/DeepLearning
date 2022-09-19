@@ -1,0 +1,42 @@
+Neighborhood Concensus Network
+
+This implementation was tested only on PF PASCAL VOC Dataset
+
+
+cite:
+	paper:@article{DBLP:journals/corr/abs-1810-10510,
+
+  author    = {Ignacio Rocco and
+
+               Mircea Cimpoi and
+
+               Relja Arandjelovic and
+
+               Akihiko Torii and
+
+               Tom{\'{a}}s Pajdla and
+
+               Josef Sivic},
+
+  title     = {Neighbourhood Consensus Networks},
+
+  journal   = {CoRR},
+
+  volume    = {abs/1810.10510},
+
+  year      = {2018},
+
+  url       = {http://arxiv.org/abs/1810.10510},
+
+  eprinttype = {arXiv},
+
+  eprint    = {1810.10510},
+
+  timestamp = {Wed, 31 Oct 2018 14:24:29 +0100},
+
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1810-10510.bib},
+
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+
+}
+	github: https://github.com/ignacio-rocco/ncnet.git
