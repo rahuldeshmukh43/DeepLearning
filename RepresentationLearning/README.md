@@ -1,6 +1,6 @@
 # Metric Learning vs Classification
 
-My goal is to see the benefit of metric learning for retrieval tasks as opposed to a simple classification task. I will train a simpleCNN model with different metric losses to see how it affects the clustering of the data. 
+My goal is to see the benefit of metric learning for retrieval tasks as opposed to a simple classification task. I will train a small CNN model with different metric losses to see how it affects the clustering of the data. 
 
 I chose CIFAR10 dataset for carrying out this experiment and visualize the embeddings using UMAP. This experiment was motivated by reading the wonderful survey -- https://hav4ik.github.io/articles/deep-metric-learning-survey
 
