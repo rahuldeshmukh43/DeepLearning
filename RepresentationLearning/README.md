@@ -4,7 +4,7 @@ My goal is to see the benefit of metric learning for retrieval tasks as opposed 
 
 I chose CIFAR10 dataset for carrying out this experiment and visualize the embeddings using UMAP. This experiment was motivated by reading the wonderful survey -- https://hav4ik.github.io/articles/deep-metric-learning-survey
 
-## Experiments:
+# Experiments:
 - [Classification](./train_classification.ipynb)
 - [Metric Learning with Contrastive Loss](./train_contrastive.ipynb)
 - [Metric Learning with Triplet Loss](./train_triplet.ipynb)
