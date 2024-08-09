@@ -11,16 +11,16 @@ I wanted to learn about NeRF and this repo is my attempt at that. I will be givi
 I collected images for four different object scenes across Purdue University's campus. Here are the output gifs of novel view synthesised by NERF
 
 ## Sculpture
-[sculpture](./nerf-pytorch/logs/sculpture_test/sculpture_test_spiral_200000_rgb_rot.gif)
+![sculpture](./nerf-pytorch/logs/sculpture_test/sculpture_test_spiral_200000_rgb_rot.gif)
 
 ## Forklift
-[sculpture](./nerf-pytorch/logs/forklift_test/forklift_test_spiral_200000_rgb_rot.gif)
+![forklift](./nerf-pytorch/logs/forklift_test/forklift_test_spiral_200000_rgb_rot.gif)
 
 ## Scissor Lift
-[sculpture](./nerf-pytorch/logs/lift_test/lift_test_spiral_200000_rgb_rot.gif)
+![lift](./nerf-pytorch/logs/lift_test/lift_test_spiral_200000_rgb_rot.gif)
 
 ## Lion Fountain
-[sculpture](./nerf-pytorch/logs/lion_fountain_test/lion_fountain_test_spiral_200000_rgb.gif)
+![lion fountain](./nerf-pytorch/logs/lion_fountain_test/lion_fountain_test_spiral_200000_rgb.gif)
 ---
 
 # Citations
